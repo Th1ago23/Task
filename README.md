@@ -14,7 +14,7 @@ DailyTask é uma API de gerenciamento de tarefas diárias, desenvolvida em Java 
 
 ## Tecnologias Utilizadas
 
-- **Java 11**
+- **Java 17**
 - **Spring Boot**
 - **Spring Security**: Implementação de autenticação e controle de acesso.
 - **JWT (JSON Web Tokens)**: Gerenciamento de autenticação e sessões de usuários.
